@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working on <a href="https://ectasy.wtf">Ectasy</a><br>📚 I'm currently learning Java</p>
+<p align="left">✨ Working on <a href="https://ectasy.club">Ectasy</a><br>📚 I'm currently learning Java</p>
 
 ###
 
